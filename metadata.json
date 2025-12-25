@@ -1,0 +1,7 @@
+{
+  "name": "Satemades Bottles - Premium Transparent Hydration",
+  "description": "A high-end e-commerce experience for premium transparent water bottles, featuring glassmorphic design, smooth animations, and an AI-powered hydration consultant.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
